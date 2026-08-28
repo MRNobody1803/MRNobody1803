@@ -1,0 +1,125 @@
+
+<svg
+    width="500"
+    height="180"
+    viewBox="0 0 500 180"
+    xmlns="http://www.w3.org/2000/svg"
+>
+
+<style>
+
+.title {
+    font: 600 22px sans-serif;
+    fill: #70a5fd;
+}
+
+.number {
+    font: 600 24px sans-serif;
+    fill: #bf91f3;
+}
+
+.label {
+    font: 14px sans-serif;
+    fill: #a9b1d6;
+}
+
+.year {
+    font: 13px sans-serif;
+    fill: #787c99;
+}
+
+</style>
+
+<rect
+    x="1"
+    y="1"
+    width="498"
+    height="178"
+    rx="10"
+    fill="#1a1b27"
+    stroke="#2f3549"
+/>
+
+<text
+    x="250"
+    y="35"
+    text-anchor="middle"
+    class="title"
+>
+    This Year's Streak
+</text>
+
+
+<!-- Current -->
+
+<text
+    x="85"
+    y="90"
+    text-anchor="middle"
+    class="number"
+>
+    1
+</text>
+
+<text
+    x="85"
+    y="115"
+    text-anchor="middle"
+    class="label"
+>
+    🔥 Current Streak
+</text>
+
+
+<!-- Longest -->
+
+<text
+    x="250"
+    y="90"
+    text-anchor="middle"
+    class="number"
+>
+    13
+</text>
+
+<text
+    x="250"
+    y="115"
+    text-anchor="middle"
+    class="label"
+>
+    🏆 Longest Streak
+</text>
+
+
+<!-- Contributions -->
+
+<text
+    x="415"
+    y="90"
+    text-anchor="middle"
+    class="number"
+>
+    366
+</text>
+
+<text
+    x="415"
+    y="115"
+    text-anchor="middle"
+    class="label"
+>
+    📊 Contributions
+</text>
+
+
+<text
+    x="250"
+    y="150"
+    text-anchor="middle"
+    class="year"
+>
+    2026
+</text>
+
+</svg>
