@@ -82,7 +82,7 @@
 
 ![Abdessamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRNobody1803&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRNobody1803&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRNobody1803&theme=tokyonight)
+![This Year's Streak](./assets/year-streak.svg)
 
 ---
 
